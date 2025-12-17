@@ -1,1 +1,0 @@
-# voidhand.json
